@@ -1,0 +1,9 @@
+li{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+    /*list-style-image: url(61O8Jfa+QXL._AC_UF894\,1000_QL80_.jpg);*/
+li::before{
+    content: "🤓";
+}

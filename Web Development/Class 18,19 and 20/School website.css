@@ -1,0 +1,38 @@
+.home,.abtus,.ser,.conus,.alvinimage{
+    float: inline-start;
+    padding-inline-start: 0.001px;
+    margin-left: 175px;
+    list-style: none;
+    font-size: 25px;
+}
+.alvinimage{
+        width: 250px;
+        height: 150px;
+        border-radius: 70000000000000px;
+        margin-left: 30px;
+}
+.school{
+    width: 1000px;
+    margin-top: 150px;
+    margin-left: -55px;
+}
+.signup,.enroll{
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    color: mintcream;
+    font-size: 25px;
+    margin-left: 1250px;
+}
+.enroll{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin-left: 1000px;
+}
+body{
+    background-image: radial-gradient(black,rgb(78, 78, 78),white);
+    background-image: ;
+}

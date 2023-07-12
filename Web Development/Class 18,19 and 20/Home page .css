@@ -1,0 +1,18 @@
+h2{
+    animation: slidein 7s infinite;
+}
+@keyframes slidein {
+    from{
+        margin-left: 100%;
+        width: 300%;
+    }
+    to{
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+body{
+    background-image: url(https://www.hts.com/wp-content/uploads/2019/04/Alvin-ISD-Glenn-York-Elementary-School-Main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

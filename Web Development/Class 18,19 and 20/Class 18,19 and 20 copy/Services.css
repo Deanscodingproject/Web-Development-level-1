@@ -1,0 +1,37 @@
+.home,.abtus,.ser,.conus,.alvinimage{
+    float: inline-start;
+    padding-inline-start: 0.001px;
+    margin-left: 175px;
+    list-style: none;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+.alvinimage{
+        width: 250px;
+        height: 150px;
+        border-radius: 70000000000000px;
+        margin-left: 30px;
+}
+a{
+    color: black;
+}
+.cwu{
+    background-color: black;
+    color: white;
+    width: 125px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 100px;
+    margin-left: 100px;
+}
+body{
+    background-image: radial-gradient(black,grey,white);
+    background-repeat: no-repeat;
+    background-size: 1415px 1000px;
+}
+.gears{
+    width: 500px;
+    height: 385px;
+    margin-left: 200px;
+    border-radius: 1000px;
+}
